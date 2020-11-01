@@ -1,2 +1,2 @@
 # notebooks to be added to 
-![Alt pic](pics/Tweety.JPG)
+<img =src"pics/Tweety.JPG>
